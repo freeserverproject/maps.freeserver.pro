@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap%27');
 
 body {
-    background-image: url('https://cdn.discordapp.com/attachments/432877058218131458/811187633366499378/2020-12-17_15.22.16_2.png');
+    background-image: url('/assets/img/background.webp');
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
